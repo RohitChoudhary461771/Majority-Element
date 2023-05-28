@@ -25,8 +25,7 @@ public:
       }
       return ans;
 
-    //👉 Moore's Voting Algorithm           Input: nums = [2,2,1,1,1,2,2]
-Output: 2
+    //👉 Moore's Voting Algorithm         
 
         int cnt=0;
         int element=0;
